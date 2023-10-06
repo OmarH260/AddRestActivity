@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478499771010",
+    "project_id": "addrestactivity",
+    "storage_bucket": "addrestactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478499771010:android:2694877d075e4302c51a9b",
+        "android_client_info": {
+          "package_name": "com.example.addrestactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinc63kLs-O23pXRDqYdIYR0V8AXtS8W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
