@@ -1,11 +1,18 @@
 package com.example.addrestactivity;
 
 public class User {
-    String firstName, lastName, phone, bio;
+    String firstName, lastName, phone, bio, Id;
 
     public User() {
     }
 
+    public String getId() {
+        return Id;
+    }
+
+    public void setId(String Id) {
+        this.Id = Id;
+    }
     public String getFirstName() {
         return firstName;
     }
