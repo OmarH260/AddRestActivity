@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        FloatingActionButton refresh = findViewById(R.id.refresh)
+        FloatingActionButton refresh = findViewById(R.id.refresh);
+
     }
 }
